@@ -4,7 +4,7 @@
 
 Produced by: star._.0412
 
-![preview](preview.png)
+![preview](https://raw.githubusercontent.com/starshpy/STAR-Spotify-Account-Checker/229f434ea13bdd84fcfba3e4618e249dad217912/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-03%20130515.png)
 
 ---
 
@@ -64,36 +64,4 @@ Produced by: star._.0412
 sp_dc : ...
 
 요금제 : Premium Family
-이메일 : example@gmail.com
-국가 : KR
-유저네임 : 31xxxxxxxxxx
-생년월일 : 2000-01-01
-
-엔터를 눌러 종료...
-```
-
----
-
-## 파일 구성
-
-```
-.
-├── main.py
-├── preview.png
-└── README.md
-```
-
----
-
-## 주의 사항
-
-- `sp_dc`는 로그인 세션과 동일합니다. 절대 공유하거나 GitHub에 올리지 마세요.
-- 쿠키가 만료되면 다시 로그인 후 새로 복사해야 합니다.
-- Spotify 비공식 웹 엔드포인트를 사용합니다. 구조가 바뀌면 동작이 달라질 수 있습니다.
-- 본인 계정 확인 용도로만 사용하세요.
-
----
-
-## 라이선스
-
-개인 / 교육 목적으로만 사용하세요.
+이메일 : 
