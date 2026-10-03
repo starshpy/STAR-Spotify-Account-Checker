@@ -4,7 +4,7 @@
 
 Produced by: star._.0412
 
-![preview](https://raw.githubusercontent.com/starshpy/STAR-Spotify-Account-Checker/229f434ea13bdd84fcfba3e4618e249dad217912/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-10-03%20130515.png)
+![preview](https://github.com/starshpy/STAR-Spotify-Account-Checker/blob/1466fc45e63c6a6a833080bbb74c5d47ccc010d0/pixelated.jpg)
 
 ---
 
